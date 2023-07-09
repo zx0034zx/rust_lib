@@ -1,4 +1,4 @@
-mod cacher;
+pub mod cacher;
 use crate::cacher::cacher::Cacher;
 
 #[cfg(test)]
